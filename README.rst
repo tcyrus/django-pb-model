@@ -28,8 +28,8 @@ Compatibility
 
 Currnetly tested with metrics:
 
-* Python2.7, 3.4, 3.5, 3.6
-* Django1.8, 1,9, 1.10, 1.11
+* Python 2.7, 3.4, 3.5, 3.6
+* Django 1.8, 1,9, 1.10, 1.11
 
 Install
 -------
@@ -336,7 +336,7 @@ CONTRIBUTION
 
 Please fork the repository and test with at least one CI software (ex: travis in this repository).
 And don't forget to add your name to CONTRIBUTORS file.
-Thanks !
+Thanks!
 
 LICENSE
 -------
